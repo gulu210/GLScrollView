@@ -5,7 +5,7 @@
 * 图片标题，并对图片标题进行样式设置
 
 # 效果图
-![](/ScreenShot.png)
+![](/ScreenShotImg.png)
 
 # 安装
 ## 使用CocoaPods安装
